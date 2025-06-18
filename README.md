@@ -11,7 +11,6 @@ As funcionalidades incluem inserção, listagem, atualização, exclusão e expo
 ✅ Consolidar meu aprendizado em Python, SQL e automação de sistemas  
 ✅ Praticar integração com banco de dados MySQL  
 ✅ Criar um portfólio funcional com operações reais de CRUD  
-✅ Compartilhar boas práticas e incentivar outros devs a estudarem backend
 
 ---
 
